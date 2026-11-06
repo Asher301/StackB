@@ -4,18 +4,23 @@ aliases:
 cssclasses:
 tags:
 ---
+# Social links
+- [Профиль в Стаке](https://stackb.net/@LoveBlessYou)
+- [Дискорд сервер](https://discord.com/invite/sCHmwV4fcY)
+- [Телеграм канал](https://t.me/ShowMeLove301)
+- [Steam](https://steamcommunity.com/id/loveblessyou/)
+- 
 ## Закрепы
 - [Первое знакомство](https://stackb.net/posts/6fb59a27-29db-41ad-ad2c-15f1449b4ce7);
 - [Сестра](https://stackb.net/posts/4fe3b268-0543-4726-9d1a-cbd7c742c2cf);
-- [Рефералка](https://stackb.net/posts/5d276f6f-7a0f-43f3-a04c-ea09a6a18021);
-- [Сиськи](https://stackb.net/posts/044bf836-08fb-4005-b495-039de3e61e34).
+- [Рефералка](https://stackb.net/posts/5d276f6f-7a0f-43f3-a04c-ea09a6a18021).
 
 ---
 
 [Самый первый пост](https://stackb.net/posts/531c7904-7dfa-4a25-a036-a866e79ca218).
 
-/// [[content/Музыкальные ассоциации Stack B]];
-/// [[content/Розыгрыши]].
+- [[Музыкальные ассоциации Stack B]];
+- [[Розыгрыши]].
 
 ## Блог
 - [Кот](https://stackb.net/posts/f67e0ea3-43fa-44ed-9760-efa6e78afe9c);
@@ -59,7 +64,8 @@ tags:
 - [Влюбиться бы](https://stackb.net/posts/7904a754-eaa0-4f33-be81-42127eb357c0);
 - [Мы?](https://stackb.net/posts/13739a1e-680a-4cf1-be11-ad021f0065f3);
 - [Я добри, девушки](https://stackb.net/posts/3fb9fb30-0424-4cce-b5c7-e0e9b8178854);
-- [В чс попал - сиди ровно](https://stackb.net/posts/5157c160-ec8a-4465-b387-5ea28e9e53f0).
+- [В чс попал - сиди ровно](https://stackb.net/posts/5157c160-ec8a-4465-b387-5ea28e9e53f0);
+- [Сиськи](https://stackb.net/posts/044bf836-08fb-4005-b495-039de3e61e34).
 
 ## Объёмные посты
 ### Срачельники
