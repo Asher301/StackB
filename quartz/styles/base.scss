@@ -20,6 +20,7 @@ body {
   box-sizing: border-box;
   background-color: var(--light);
   font-family: "Caslon Antique";
+  font-size: 1rem;
   color: var(--darkgray);
 }
 
@@ -424,7 +425,7 @@ h6 {
     opacity: 0;
     transition: opacity 0.2s ease;
     transform: translateY(-0.1rem);
-    font-family: var(--codeFont);
+    font-family: "Goudy Trajan Bold";
     user-select: none;
   }
 
