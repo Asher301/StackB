@@ -14,8 +14,8 @@ tags:
 
 [Самый первый пост](https://stackb.net/posts/531c7904-7dfa-4a25-a036-a866e79ca218).
 
-/// [[Музыкальные ассоциации Stack B]];
-/// [[Розыгрыши]].
+/// [[content/Музыкальные ассоциации Stack B]];
+/// [[content/Розыгрыши]].
 
 ## Блог
 - [Кот](https://stackb.net/posts/f67e0ea3-43fa-44ed-9760-efa6e78afe9c);
