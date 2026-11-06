@@ -10,13 +10,14 @@ tags:
 - [Телеграм канал](https://t.me/ShowMeLove301)
 - [Steam](https://steamcommunity.com/id/loveblessyou/)
 - 
-## Закрепы
+# Закрепы
 - [Первое знакомство](https://stackb.net/posts/6fb59a27-29db-41ad-ad2c-15f1449b4ce7);
 - [Сестра](https://stackb.net/posts/4fe3b268-0543-4726-9d1a-cbd7c742c2cf);
 - [Рефералка](https://stackb.net/posts/5d276f6f-7a0f-43f3-a04c-ea09a6a18021).
 
 ---
 
+# Великий пост знаешь? Я запостил
 [Самый первый пост](https://stackb.net/posts/531c7904-7dfa-4a25-a036-a866e79ca218).
 
 - [[Музыкальные ассоциации Stack B]];
