@@ -19,7 +19,7 @@ body {
   margin: 0;
   box-sizing: border-box;
   background-color: var(--light);
-  font-family: var(--bodyFont);
+  font-family: "Caslon Antique";
   color: var(--darkgray);
 }
 
@@ -402,7 +402,7 @@ h4,
 h5,
 h6,
 thead {
-  font-family: var(--headerFont);
+  font-family: "Goudy Trajan Bold";
   color: var(--dark);
   font-weight: revert;
   margin-bottom: 0;
