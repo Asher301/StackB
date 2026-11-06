@@ -19,7 +19,7 @@ body {
   margin: 0;
   box-sizing: border-box;
   background-color: var(--light);
-  font-family: "Caslon Antique";
+  font-family: "ADYS Bold";
   font-size: 1rem;
   color: var(--darkgray);
 }
@@ -403,7 +403,7 @@ h4,
 h5,
 h6,
 thead {
-  font-family: "Goudy Trajan Bold";
+  font-family: "ADYS Bold";
   color: var(--dark);
   font-weight: revert;
   margin-bottom: 0;
@@ -425,7 +425,7 @@ h6 {
     opacity: 0;
     transition: opacity 0.2s ease;
     transform: translateY(-0.1rem);
-    font-family: "Goudy Trajan Bold";
+    font-family: "ADYS Bold";
     user-select: none;
   }
 
